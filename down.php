@@ -4,7 +4,7 @@
     // http://vnfiles.ign.com/ects/css-tricks/VideoCast-121.mp4
     // http://vnfiles.ign.com/ects/css-tricks/VideoCast-120.mp4
 
-    $url  = 'http://pdl.vimeocdn.com/65387/496/193682011.mp4?token2=1393416707_920eff461546417365063b64b60003cb&aksessionid=b493009714d137da';
+    $url  = '';
     $path = 'com/' . 'Authentication Essentials from Laracasts on Vimeo.MP4';
 
     $fp = fopen($path, 'w');
